@@ -26,5 +26,7 @@
   Zenject, UnityWebRequest, DOTween, MVC
 
   ![alt text](screenshots/test_task/0.jpg "TestTask")  
-
+  ![alt text](screenshots/test_task/1.jpg "TestTask")  
+  ![alt text](screenshots/test_task/2.jpg "TestTask")  
+    
   [GitHub](https://github.com/ZloyGreGan/Cifkor_TestTask)
