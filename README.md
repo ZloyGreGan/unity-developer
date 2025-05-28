@@ -9,7 +9,7 @@
 
   ![alt text](screenshots/rts/0.jpg "RTS")  
 
-3. Игра головоломка (сделана для HashStore и загружена туда) (2023г)
+3. Игра головоломка (сделана для HashStore и загружена туда(название в сторе - STOP)) (2023г)
 
   ![alt text](screenshots/cube_game/0.jpg "CubeGame")  
   ![alt text](screenshots/cube_game/1.jpg "CubeGame")  
