@@ -21,7 +21,7 @@
 
   ![alt text](screenshots/tutorial/0.jpg "Tutorial")  
 
-5. Тестовое задание (2025г)
+5. Тестовое задание (2024г)
 
   Zenject, UnityWebRequest, DOTween, MVC
 
