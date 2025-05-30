@@ -36,6 +36,17 @@
   </p>
 </details>
 
+### Какой-то учебный проект
+**Описание:** Игра из бесплатных ассетов, задача пройти всю карту и убить босса.  
+**Подробнее о проекте:** Проект, начатый в рамках изучения Unity, самое начало моего пути.
+
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+  <img src="screenshots/tutorial/0.jpg" alt="rts_learn" width ="70%" />
+  </p>
+</details>
+
 ## 🛠 Стек технологий
 - Unity 2D/3D (C#, UGUI, Addressables)  
 - DI: Zenject
