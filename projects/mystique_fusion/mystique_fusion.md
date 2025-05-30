@@ -1,6 +1,6 @@
 # 🔥 Mystique Fusion
 
-<div align="center"><img src="projects/mystique_fusion/main-head.jpg" width="800" /></div>
+<div align="center"><img src="main-head.jpg" width="800" /></div>
 
 
 ## 📌 Краткое описание
