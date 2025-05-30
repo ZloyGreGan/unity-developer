@@ -71,9 +71,6 @@
 
 ## 📸 Скриншоты / Видео
 
-![Бой](https://github.com/user-attachments/assets/099e3a42-9a30-4892-9df6-66379f71e9c5)
-![Экран победы](https://github.com/user-attachments/assets/d27abf8c-03c0-41f4-bb90-79ebf3e8c0d9)
-![Карта уровней](https://github.com/user-attachments/assets/cde8c9b0-bc96-48a1-9581-e27ddc31046f)
-![Магазин навыков](https://github.com/user-attachments/assets/28c2340d-9a0a-41dd-93b0-5e315eafe7c1)
-![gif](https://github.com/user-attachments/assets/9f119611-d692-4e96-bb83-eb1f92a7c7d4)
-![gif2](https://github.com/user-attachments/assets/a1c784e9-393c-48a1-8328-8f0820deb696)
+![gif](tap_settings_mailbox.gif)
+![gif2](quests.gif)
+![gif3](biz.gif)
