@@ -78,7 +78,7 @@
 ## 🛠 Стек технологий
 - Unity 2D/3D (C#, UGUI, Addressables)  
 - DI: Zenject
-- Асинхронность: UniTask, UnityWebRequest
+- Асинхронность: UniTask, UnityWebRequest, async/await
 - Анимации: DOTween  
 - Архитектура: MVC, MVP
 - Управление задачами: Asana, Jira
