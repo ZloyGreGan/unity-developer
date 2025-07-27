@@ -80,7 +80,7 @@
 - DI: Zenject
 - Асинхронность: UniTask, UnityWebRequest, async/await
 - Анимации: DOTween  
-- Архитектура: MVC, MVP
+- Архитектура: MVC, MVP, ECS
 - Управление задачами: Asana, Jira
 - VCS: Git
 
