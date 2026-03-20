@@ -9,6 +9,7 @@
 ### Softintermob LLC
 **Описание:** Разработка RPG игры в открытом мире.    
 **Подробнее:** [О проекте](https://github.com/ZloyGreGan/unity-developer/blob/main/projects/softintermob/softintermob.md)
+
 ---
 
 ### Mystique Fusion (Цифкор)
