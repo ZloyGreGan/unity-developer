@@ -1,7 +1,7 @@
 # 🔥 Softintermob LLC
 
 ## 📌 Краткое описание
-**Softintermob LLC** — актуальную информациб о компании можно прочитать на их оффициальном сайте - ([softintermob.com](https://softintermob.com/))
+**Softintermob LLC** — актуальную информациб о компании можно прочитать на их оффициальном сайте - [softintermob.com](https://softintermob.com/)
 
 ---
 
