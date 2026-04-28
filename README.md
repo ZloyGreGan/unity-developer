@@ -20,6 +20,7 @@
 
 ### Тестовые задания
 
+**UIEngineer Test Task:** [О проекте/Исходники](https://github.com/ZloyGreGan/UIEnginerTest)  
 **Adaptation Project:** [О проекте/Исходники](https://github.com/ZloyGreGan/AdaptationProject)  
 **BattleShips 3D:** [О проекте/Исходники](https://github.com/ZloyGreGan/BattleShipsTest)  
 **Simple Mahjong 2D:** [О проекте/Исходники](https://github.com/ZloyGreGan/MahjongTestTask)  
