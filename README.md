@@ -70,12 +70,13 @@
 </details>
 
 ## 🛠 Стек технологий
-- Unity 2D/3D (C#, UI Toolkit, UGUI, Addressables)  
-- DI: Zenject, VContainer, MessagePipe
-- Асинхронность: UniTask, UniRx, UnityWebRequest, async/await
-- Анимации: DOTween  
-- Архитектура: MVC, MVP, ECS, Clean Architecture(MVP), Assembly Definitions
-- Управление задачами: Asana, Jira
-- VCS: Git
+
+- Unity, C#, UGUI, UI Toolkit, Addressables, ScriptableObjects
+- DI: Zenject, VContainer
+- Асинхронность: UniTask, async/await, UnityWebRequest
+- Реактивность и событийность: UniRx, MessagePipe
+- Архитектура: MVC, MVP, MVVM, ECS, Clean Architecture, Assembly Definitions
+- Анимации: DOTween
+- Инструменты: Git, Jira, Asana
 
 📬 **Связаться со мной:** [VK](https://vk.com/zloygregan) | [Telegram](https://t.me/Zloy_GreGan)
