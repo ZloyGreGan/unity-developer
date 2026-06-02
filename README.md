@@ -6,6 +6,12 @@
 
 ## 🔥 Проекты
 
+### Шахматная школа Феномен
+**Описание:** Мобильная шахматная игра для детского обучения.
+**Подробнее:** [О проекте](https://github.com/ZloyGreGan/unity-developer/blob/main/projects/phenomen/phenomen.md)
+
+---
+
 ### Softintermob LLC
 **Описание:** Разработка RPG игры в открытом мире.    
 **Подробнее:** [О проекте](https://github.com/ZloyGreGan/unity-developer/blob/main/projects/softintermob/softintermob.md)
