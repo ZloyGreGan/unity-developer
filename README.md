@@ -21,7 +21,7 @@
 ---
 
 ### Mystique Fusion (Цифкор)
-**Описание:** Бесплатная крипто-игра.  
+**Описание:** Мобильная idle/clicker-игра с Play-to-Earn механиками.  
 **Подробнее:** [О проекте](https://github.com/ZloyGreGan/unity-developer/blob/main/projects/mystique_fusion/mystique_fusion.md)
 
 ---
