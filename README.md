@@ -69,18 +69,6 @@ Unity-разработчик с 3+ годами коммерческого и п
   </p>
 </details>
 
----
-
-### Какой-то учебный проект
-**Описание:** Игра из бесплатных ассетов, задача пройти всю карту и убить босса.  
-
-<details close>
-  <summary>Скриншоты: </summary>
-  <p align="left">
-  <img src="screenshots/tutorial/0.jpg" alt="rts_learn" width ="70%" />
-  </p>
-</details>
-
 ## 🛠 Стек технологий
 - Unity 2D/3D (C#, UI Toolkit, UGUI, Addressables)  
 - DI: Zenject, VContainer, MessagePipe
