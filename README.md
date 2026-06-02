@@ -9,7 +9,7 @@
 ## 🔥 Проекты
 
 ### Шахматная школа Феномен
-**Описание:** Мобильная шахматная игра для детского обучения.
+**Описание:** Мобильная шахматная игра для детского обучения.   
 **Подробнее:** [О проекте](https://github.com/ZloyGreGan/unity-developer/blob/main/projects/phenomen/phenomen.md)
 
 ---
@@ -28,7 +28,7 @@
 
 ### Тестовые задания
 
-**UIEngineer Test Task:** [О проекте/Исходники](https://github.com/ZloyGreGan/UIEnginerTest)  
+**UIEngineer Test Task:** [О проекте/Исходники](https://github.com/ZloyGreGan/UIEngineerTest)  
 **Adaptation Project:** [О проекте/Исходники](https://github.com/ZloyGreGan/AdaptationProject)  
 **BattleShips 3D:** [О проекте/Исходники](https://github.com/ZloyGreGan/BattleShipsTest)  
 **Simple Mahjong 2D:** [О проекте/Исходники](https://github.com/ZloyGreGan/MahjongTestTask)  
