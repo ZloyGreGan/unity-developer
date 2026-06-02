@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 Технологии
-- Unity 2D (C#, UI Toolkit) (ver 6 6000.0.xx)
+- Unity (C#, UI Toolkit) (ver 6 6000.0.xx)
 - DI: VContainer
 - Асинхронность: UniTask
 - Архитектура: ECS, Clean Architecture(MVP), Assembly Definitions
